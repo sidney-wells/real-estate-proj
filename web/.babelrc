@@ -1,0 +1,4 @@
+{
+  "presets": ["next/babel"],
+  "plugins": ["react-require", "inline-react-svg", "transform-jsx-url"]
+}
